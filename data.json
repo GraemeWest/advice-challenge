@@ -1021,4 +1021,19 @@
     "ai2": "Optimisation",
     "ai3": "OtherML"
   }
+ ,
+  {
+    "number": 74,
+    "sector": "Energy",
+    "phaseTitle": "Management & Operations",
+    "title": "Improved outage management in nuclear power stations",
+    "description": "Nuclear power stations typically generate 24 hours a day, 7 days a week.  Statutory planned outages occur periodically (typically every 18 months in the UK) in order to perform routine maintenance. AI can assits with optimising the scheduling of outage activities, both ahead of the outage, and during the outage in response to unanticipated changes to the outage programme.  Minimising the length of the outage, whilst ensuring safety is key.",
+    "challenge": "",
+    "Impact": 1,
+    "AISuitability": 3,
+    "Novelty": 2,
+    "ai1": "TimeSeries",
+    "ai2": "Optimisation",
+    "ai3": "OtherML"
+  }
 ]
