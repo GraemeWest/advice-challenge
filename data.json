@@ -452,7 +452,7 @@
    "sector": "Energy",
    "phaseTitle": "Maintenance & Anomaly Detection",
    "title": "Asset health and monitoring",
-   "description": "Sensors and monitoring can help ensure that an asset is operating as expected, and detect when it is deteriorating. AI can combine multiple data sources and detect subtle signals in the data. This could aid decarbonisation where it can improve the economic feasibility of renewables (e.g. offshore wind).",
+   "description": "Sensors and monitoring can help ensure that an asset is operating as expected, and detect when it is deteriorating. AI can combine multiple data sources and detect subtle signals in the data. This could aid decarbonisation where it can improve the economic feasibility of renewables (e.g. offshore wind) and nuclear.",
    "challenge": "",
    "Impact": 1,
    "AISuitability": 3,
